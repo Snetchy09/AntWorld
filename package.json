@@ -1,0 +1,1 @@
+{"scripts":{"start":"node scripts/dev-server.mjs","test":"node --check src/main.js && node scripts/smoke-test.mjs"},"dependencies":{},"devDependencies":{}}
